@@ -1,0 +1,10 @@
+{
+    "host":"http://www.17sucai.com/",
+    "loginPath":"auth",
+    "signInPath":"member/signin",
+
+    "userInfo":{
+        "email":"",
+        "password":""
+    }
+}
